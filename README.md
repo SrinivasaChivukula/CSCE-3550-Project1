@@ -16,11 +16,11 @@ Projects are designed to be graded automatically using \*\*GradeBot 9000\*\*.
 
 
 
-\- \*\*Python 3.9+\*\* (already installed on most systems)
+- **Python 3.9+** (already installed on most systems)
 
-\- \*\*pip\*\* package manager
+- **pip** package manager
 
-\- \*\*GradeBot 9000\*\* (provided by instructor – included in this repo as `gradebot.exe`)
+- **GradeBot 9000** (provided by instructor – included in this repo as `gradebot.exe`)
 
 
 
@@ -28,11 +28,11 @@ Projects are designed to be graded automatically using \*\*GradeBot 9000\*\*.
 
 
 
-\## Setup
+## Setup
 
 
 
-1\. Clone or download this repository.
+1. Clone or download this repository.
 
 
 
@@ -40,11 +40,11 @@ Projects are designed to be graded automatically using \*\*GradeBot 9000\*\*.
 
 &nbsp;  git clone <repo-url>
 
-&nbsp;  cd CSCE\_3550
+&nbsp;  cd CSCE_3550
 
 
 
-2\. Each project has its own folder:
+2. Each project has its own folder:
 
 CSCE\_3550/
 
@@ -54,7 +54,7 @@ CSCE\_3550/
 
 
 
-3\. Install dependencies for a project before running it:
+3. Install dependencies for a project before running it:
 
 
 
@@ -89,22 +89,22 @@ Example: Project 1
 
 
 
-2\. Open a new terminal and run GradeBot:
+2. Open a new terminal and run GradeBot:
 
 
 
-* cd ..
-* .\\gradebot project1
+ cd ..
+ .\gradebot project1
 
 
 
-3\. GradeBot will connect to your server and run tests.
+3. GradeBot will connect to your server and run tests.
 
 Scores and feedback are displayed in the terminal.
 
 
 
-\## Example Work-Flow:
+## Example Work-Flow:
 
 # Setup
 
@@ -114,17 +114,17 @@ pip install -r requirements.txt
 
 
 
-\# Run server
+# Run server
 
 python server.py   # keep this terminal open
 
 
 
-\# In another terminal
+# In another terminal
 
 cd ..
 
-.\\gradebot project1
+.\gradebot project1
 
 
 
