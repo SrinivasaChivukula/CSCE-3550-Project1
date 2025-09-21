@@ -1,4 +1,4 @@
-\# CSCE 3550 – Project Repository
+# CSCE 3550 – Project Repository
 
 
 
@@ -12,7 +12,7 @@ Projects are designed to be graded automatically using \*\*GradeBot 9000\*\*.
 
 
 
-\## Requirements
+## Requirements
 
 
 
